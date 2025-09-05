@@ -1,4 +1,5 @@
 Ubuntu Image Fetcher
+
 A Python tool for mindfully collecting images from the web, inspired by Ubuntu principles of Community, Respect, Sharing, and Practicality.
 
 📌 Features
@@ -27,7 +28,8 @@ python ubuntu_image_fetcher.py
 Welcome to the Ubuntu Image Fetcher
 A tool for mindfully collecting images from the web
 
-Please enter one or more image URLs (comma-separated): https://example.com/ubuntu-wallpaper.jpg
+Please enter one or more image URLs (comma-separated): https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_690/https%3A%2F%2Fubuntu.com%2Fwp-content%2Fuploads%2F2d48%2Freflection.jpeg
+
 ✓ Successfully fetched: ubuntu-wallpaper.jpg
 ✓ Image saved to Fetched_Images/ubuntu-wallpaper.jpg
 
